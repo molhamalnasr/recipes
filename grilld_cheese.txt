@@ -1,0 +1,9 @@
+Ingredients:
+ - 2 slices of bread
+ - Slice of cheese
+ - Some Butter
+
+Directions:
+  1. Butter the bread (both sides)
+  2. Put cheese in-between bread.
+  3. Grill the bread and cheese in frying pan until lightly toasted and the cheese has melted.
